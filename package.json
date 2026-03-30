@@ -1,0 +1,13 @@
+{
+  "name": "bounty-hunter-test",
+  "version": "1.0.0",
+  "description": "Test repo for Bounty Hunter system validation",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node test/run.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
